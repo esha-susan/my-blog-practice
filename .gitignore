@@ -1,0 +1,13 @@
+cat > .gitignore <<EOF
+# System files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+
+# Logs and temp files
+*.log
+*.tmp
+EOF
