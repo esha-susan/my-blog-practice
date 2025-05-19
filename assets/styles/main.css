@@ -1,0 +1,14 @@
+/* Dark theme styles */
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.subscribe-button {
+  background-color: #bb86fc; /* lighter button in dark mode */
+  color: #121212;
+}
+
+.subscribe-button:hover {
+  background-color: #9b6efc;
+}
