@@ -27,3 +27,6 @@ body.dark-mode .subscribe-button {
 body.dark-mode .subscribe-button:hover {
   background-color: #9b6efc;
 }
+header {
+  margin-bottom: 20px;
+}
