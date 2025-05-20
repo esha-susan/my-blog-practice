@@ -1,0 +1,23 @@
+{
+  "name": "my-blog-practice",
+  "version": "1.0.0",
+  "description": "This is my attempt to create a repository ## Wiki",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esha-susan/my-blog-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esha-susan/my-blog-practice/issues"
+  },
+  "homepage": "https://github.com/esha-susan/my-blog-practice#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
